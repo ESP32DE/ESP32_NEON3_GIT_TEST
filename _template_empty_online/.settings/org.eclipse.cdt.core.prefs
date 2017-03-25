@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.1417711392/BATCH_BUILD/delimiter=;
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.1417711392/BATCH_BUILD/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.1417711392/BATCH_BUILD/value=1
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.1417711392/IDF_PATH/delimiter=;
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.1417711392/IDF_PATH/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.1417711392/IDF_PATH/value=c\:/esp32neon3/esp-idf
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.1417711392/PATH/delimiter=;
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.1417711392/PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.1417711392/PATH/value=C\:\\msys32\\usr\\bin;C\:\\msys32\\mingw32\\bin;C\:\\msys32\\opt\\xtensa-esp32-elf\\bin
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.1417711392/SOLUTION/delimiter=;
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.1417711392/SOLUTION/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.1417711392/SOLUTION/value=${IDF_PATH}/tools/windows/eclipse_make.py
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.1417711392/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.1417711392/appendContributed=true
